@@ -1,17 +1,17 @@
-Project Overview:
+**Project Overview:**
 This project analyzes Indian Premier League (IPL) match data to understand team performance, player statistics, and match trends. The data was cleaned using Python (Pandas), analyzed using SQL, and visualized through an interactive Power BI dashboard.
 
-Tools Used
+**Tools Used**
 - Python (Pandas) – Data cleaning and preprocessing
 - MySQL – Data analysis and querying
 - Power BI – Data visualization and dashboard creation
 
-Project Workflow
+**Project Workflow**
 - Cleaned the raw IPL dataset using Python Pandas and handled missing values.
 - Performed data analysis using SQL queries to extract insights.
 - Connected the processed data to Power BI to build an interactive dashboard.
 
-Dashboard Insights
+**Dashboard Insights**
 The dashboard includes(KPI cards):
 - Total Runs
 - Total Matches
@@ -24,9 +24,9 @@ The dashboard includes(KPI cards):
 - Dismissal Type Distribution
 - Run Distribution
 
-Dataset
+**Dataset**
 - IPL ball-by-ball dataset from kaggle (deliveries.csv data).
 
-Author:
+**Author:**
 Shivam Singh Chauhan
 Aspiring Data Analyst
